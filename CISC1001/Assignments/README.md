@@ -1,7 +1,22 @@
-[Assignment 1](#assignment-1)
+[Assignment 1:](#assignment-1) Currency convertor, scanf
+
+[Assignment 2:](#assignment-2) Payroll, function
+
+[Assignment 3:](#assignment-3) System for Checking grade, Switch
+
+[Assignment 4:](#assignment-4) Inch to Cm convertor, Switch
+
+[Assignment 5:](#assignment-5) Middle point of a line, Pointer
+
+[Assignment 6:](#assignment-6) Reverse array, Pointer
+
+[Assignment 7:](#assignment-7) Recursive algorithm, Pointer, recursive function
+
+[Assignment 8:](#assignment-8) Ranking Grade(Score or Name), Structure
 
 # Assignment 1:
-<img width="615" alt="Assignment 1" src="https://user-images.githubusercontent.com/82365010/115992727-bc581780-a601-11eb-8786-0d70269067e4.png">
+<img width="809" alt="Screenshot 2021-04-25 at 8 21 30 PM" src="https://user-images.githubusercontent.com/82365010/115993098-d266d780-a603-11eb-9435-fbdb02b3caf0.png">
+
 
 ___
 # Assignment 2:
