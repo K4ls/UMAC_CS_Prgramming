@@ -1,3 +1,5 @@
+[Assignment 1](#assignment-1)
+
 # Assignment 1:
 <img width="615" alt="Assignment 1" src="https://user-images.githubusercontent.com/82365010/115992727-bc581780-a601-11eb-8786-0d70269067e4.png">
 
