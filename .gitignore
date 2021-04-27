@@ -4,3 +4,5 @@
 #gcc
 *.out
 
+#text file for submitting assignm.
+*.text
