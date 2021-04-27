@@ -1,3 +1,7 @@
+//I did it in a very bad way in the end
+//Those if condition
+//So UGLY
+
 #include <stdio.h>
 #include <string.h>
 
