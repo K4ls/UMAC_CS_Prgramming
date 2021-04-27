@@ -14,9 +14,10 @@
 
 [Assignment 8:](#assignment-8) Ranking Grade(Score or Name), Structure
 
+[Python Assignment:](#python-assignment) Keynes
+
 # Assignment 1:
 <img width="809" alt="Screenshot 2021-04-25 at 8 21 30 PM" src="https://user-images.githubusercontent.com/82365010/115993098-d266d780-a603-11eb-9435-fbdb02b3caf0.png">
-
 
 ___
 # Assignment 2:
@@ -46,5 +47,8 @@ ___
 # Assignment 8:
 <img width="614" alt="Assignment 8" src="https://user-images.githubusercontent.com/82365010/115992785-10fb9280-a602-11eb-85f1-5c2d0e6179a1.png">
 
+___
+# Python Assignment:
+<img width="636" alt="Keynes Python" src="https://user-images.githubusercontent.com/34264148/116255413-cc5c2c80-a7a4-11eb-8401-0adc5df105dc.png">
 
 ___
