@@ -2,6 +2,5 @@
 .DS_Store
 
 #gcc
-.out
-/Assignments/.out
-/Practices/.out
+*.out
+
